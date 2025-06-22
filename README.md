@@ -1,7 +1,8 @@
 <!-- Encabezado con animación -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=435&lines=Hola%2C+soy+Rainiero+Mendoza+de+Jesús;Desarrollador+en+formación+%F0%9F%92%BB;Apasionado+por+Django%2C+Python+y+la+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Rainiero+Mendoza+de+Jes%C3%BAs;Desarrollador+en+formaci%C3%B3n+%F0%9F%92%BB;Apasionado+por+Django%2C+Python+y+la+IA" alt="Typing SVG" />
 </h1>
+
 
 ---
 
