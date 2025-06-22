@@ -27,6 +27,7 @@
 - Conocimiento en análisis y modelado de sistemas (UML, diagramas de flujo, etc.).
 - Experiencia previa con WordPress creando academias online (antes del ITLA).
 - Proyectos académicos reales aplicando **Scrum**, donde he sido **Scrum Master** y líder técnico.
+- Estudie Inglés en el Domínico Americano en el Programa de Inglés Por Inmersión. (B2)
 
 ---
 
