@@ -1,6 +1,6 @@
 <!-- Encabezado con animación -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Rainiero+Mendoza+de+Jes%C3%BAs;Estudiante+de+t%C3%A9rmino+en+Desarrollo+de+Software;Apasionado+por+Django%2C+Python+y+la+IA+%F0%9F%A7%96%E2%80%8D%F0%9F%92%BB" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Rainiero+Mendoza+de+Jesus;Estudiante+de+t%C3%A9rmino+en+Desarrollo+de+Software;Apasionado+por+Django%2C+Python+y+la+IA+%F0%9F%A7%96%E2%80%8D%F0%9F%92%BB" alt="Typing animation" />
 </h1>
 
 
